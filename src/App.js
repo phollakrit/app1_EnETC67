@@ -1,10 +1,11 @@
 import React from 'react'
-import Calendar from './class-components'
+import { EventData2 } from './event-data'
+
 
 
 export default function App(){
   return(
-    <Banner/>
+    <EventData2/>
   )
 }
 
